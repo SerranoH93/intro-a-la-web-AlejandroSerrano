@@ -22,6 +22,7 @@ section{
     padding: 25px;
     border-radius: 17px;
     box-shadow: 5px 5px 15pc grey;
+    border: 1px solid grey;
 }
 
 .beach{
@@ -32,5 +33,11 @@ section{
 
 .descripcion{
     width: 250px;
+}
+
+#cuerpo{
+    background-color: #90e0ef;
+    padding: 20px;
+    margin: 0 20px;
 }
 
